@@ -1,0 +1,14 @@
+C:\Users\HPP\Desktop\ALGORITHMS PROBLEM\bin\Debug\net9.0\ALGORITHMS PROBLEM.exe
+C:\Users\HPP\Desktop\ALGORITHMS PROBLEM\bin\Debug\net9.0\ALGORITHMS PROBLEM.deps.json
+C:\Users\HPP\Desktop\ALGORITHMS PROBLEM\bin\Debug\net9.0\ALGORITHMS PROBLEM.runtimeconfig.json
+C:\Users\HPP\Desktop\ALGORITHMS PROBLEM\bin\Debug\net9.0\ALGORITHMS PROBLEM.dll
+C:\Users\HPP\Desktop\ALGORITHMS PROBLEM\bin\Debug\net9.0\ALGORITHMS PROBLEM.pdb
+C:\Users\HPP\Desktop\ALGORITHMS PROBLEM\obj\Debug\net9.0\ALGORITHMS PROBLEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HPP\Desktop\ALGORITHMS PROBLEM\obj\Debug\net9.0\ALGORITHMS PROBLEM.AssemblyInfoInputs.cache
+C:\Users\HPP\Desktop\ALGORITHMS PROBLEM\obj\Debug\net9.0\ALGORITHMS PROBLEM.AssemblyInfo.cs
+C:\Users\HPP\Desktop\ALGORITHMS PROBLEM\obj\Debug\net9.0\ALGORITHMS PROBLEM.csproj.CoreCompileInputs.cache
+C:\Users\HPP\Desktop\ALGORITHMS PROBLEM\obj\Debug\net9.0\ALGORITHMS PROBLEM.dll
+C:\Users\HPP\Desktop\ALGORITHMS PROBLEM\obj\Debug\net9.0\refint\ALGORITHMS PROBLEM.dll
+C:\Users\HPP\Desktop\ALGORITHMS PROBLEM\obj\Debug\net9.0\ALGORITHMS PROBLEM.pdb
+C:\Users\HPP\Desktop\ALGORITHMS PROBLEM\obj\Debug\net9.0\ALGORITHMS PROBLEM.genruntimeconfig.cache
+C:\Users\HPP\Desktop\ALGORITHMS PROBLEM\obj\Debug\net9.0\ref\ALGORITHMS PROBLEM.dll
